@@ -38,5 +38,5 @@ To leverage 100 years of materials, metallurgical and mechatronic advances since
 ## About
 This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
 
-- [Introduction to the basics technologies of GreenSteam](#)  
-- [Selected examples of Student works](#)
+- [Introduction to the basics of the technologies in use for GreenSteam](#)  
+- [Selected examples of Student works in 2020 Summer](#)
