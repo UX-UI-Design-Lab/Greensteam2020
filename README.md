@@ -9,9 +9,8 @@ Inspired by sustainability, environmental and climate justice activism, Greenste
 ### Design rationale for Greensteam engines
 To leverage 100 years of materials, metallurgical and mechatronic advances since steam engine design development ceased.
 
-A. To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
-
-B. To find sweet spots between simplicity and efficiency, recognising that increase in efficiency are often coupled ort increases in complexity
+: To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
+: To find sweet spots between simplicity and efficiency, recognising that increase in efficiency are often coupled ort increases in complexity
 
 C. To reduce moving parts and masses to a minimum, especially parts that wear or must be adjusted.
 
