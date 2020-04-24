@@ -9,10 +9,10 @@ Inspired by sustainability, environmental and climate justice activism, Greenste
 ### Design rationale for Greensteam engines
 To leverage 100 years of materials, metallurgical and mechatronic advances since steam engine design development ceased.
 
-: To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
-: To find sweet spots between simplicity and efficiency, recognising that increase in efficiency are often coupled ort increases in complexity
+1. To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
+2. To find sweet spots between simplicity and efficiency, recognising that increase in efficiency are often coupled ort increases in complexity
 
-C. To reduce moving parts and masses to a minimum, especially parts that wear or must be adjusted.
+3. To reduce moving parts and masses to a minimum, especially parts that wear or must be adjusted.
 
 D. To seek application of mechatronics (sensor, microcontroller, powered output devices) to create autonomous self-regulation (homeostasis), to reduce mechanical parts count, increase energy efficiency and create real-time response. Note that, in a self-contained system, this implies generating the electrical power for the mechatronics from the engine itself and this generation is a cost.
 
