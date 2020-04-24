@@ -27,6 +27,17 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
 - See more: Dr. Panny's drawings
 - See details of the project: [| Furnace/Boiler |](#) [| Engines |](#) [| Linear Generator |](#) [| Mechatronics |](#)
 
+
+import '@github/details-menu-element'
+<details>
+  <summary>Robots</summary>
+  <details-menu role="menu">
+    <button type="button" role="menuitem">Hubot</button>
+    <button type="button" role="menuitem">Bender</button>
+    <button type="button" role="menuitem">BB-8</button>
+  </details-menu>
+</details>
+
 ## About
 This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
 
