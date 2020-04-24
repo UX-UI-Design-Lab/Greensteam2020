@@ -1,7 +1,7 @@
-# Greensteam2020
-- Sustainable steam-power for the C21st by [Dr. Simon Penny](http://simonpenny.net)
+# GreenSteam2020
+Sustainable steam-power for the C21st by [Dr. Simon Penny](http://simonpenny.net)
 
-In this project, I want to rethink external combustion for sustainable small scale power, suited to but not specifically for, isolated locations.
+To goal of GreenSteam project is to rethink external combustion for sustainable small scale power, suited to but not specifically for, isolated locations.
 
 ## Motivaton
 Inspired by sustainability, environmental and climate justice activism, Greensteam project seeks (1) to provide sustainable sources of power (mechanical and electrical) while (2) addressing previously unsolvable problems of environmental waste management.
@@ -18,5 +18,12 @@ F. Constraining design space - Engines are stationary and small scale - for dome
 ## Design approach and methods: ‘parsimonious engineering’ 
 This project aims to provide design solutions with appropriate tech, no ‘higher’ than necessary, but leveraging cheap but sophisticated parts, like microprocessors.
 
+- Dr. Penny's writings
+- Dr. Panny's drawings
+- Furnace/Boiler | Engines | Linear Generator | Mechatronics
+
 ## About
-This project was begun in early 2018 by PI Prof Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
+This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
+
+- Introduction to the basics technologies of GreenSteam  
+- Selected examples of Student works 
