@@ -6,10 +6,10 @@ To goal of GreenSteam project is to rethink external combustion for sustainable 
 ## Motivaton
 Inspired by sustainability, environmental and climate justice activism, Greensteam project seeks (1) to provide sustainable sources of power (mechanical and electrical) while (2) addressing previously unsolvable problems of environmental waste management.
 
-## Design approach and methods: ‘parsimonious engineering’ 
-This project aims to provide design solutions with appropriate tech, no ‘higher’ than necessary, but leveraging cheap but sophisticated parts, like microprocessors.
+## 'Parsimonious Engineering’ 
+Design principle in the project is to utilize appropriate tech, no ‘higher’ than necessary, but leveraging cheap but sophisticated parts, like microprocessors.
 
-### Design rationale for Greensteam engines
+### Design Rationale for Greensteam Engines
 To leverage 100 years of materials, metallurgical and mechatronic advances since steam engine design development ceased.
 
 1. To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
