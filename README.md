@@ -11,20 +11,16 @@ To leverage 100 years of materials, metallurgical and mechatronic advances since
 
 1. To research and apply new plastics, composite materials, ceramics, and alloys (etc) to reduce wear, manage thermal expansion, thermal radiation, etc. 
 2. To find sweet spots between simplicity and efficiency, recognising that increase in efficiency are often coupled ort increases in complexity
-
 3. To reduce moving parts and masses to a minimum, especially parts that wear or must be adjusted.
-
 4. To seek application of mechatronics (sensor, microcontroller, powered output devices) to create autonomous self-regulation (homeostasis), to reduce mechanical parts count, increase energy efficiency and create real-time response. Note that, in a self-contained system, this implies generating the electrical power for the mechatronics from the engine itself and this generation is a cost.
-
 5. To explore novel design solutions to problems such as valve control and drive trains. 
-
 6. Constraining design space - Engines are stationary and small scale - for domestic/small community electrical generation and mechanical tasks - pumping, grinding, driving machinery. Hence it has an optimal and fixed rpm range. 
 
 ## Design approach and methods: ‘parsimonious engineering’ 
 This project aims to provide design solutions with appropriate tech, no ‘higher’ than necessary, but leveraging cheap but sophisticated parts, like microprocessors.
 
 - See more: Dr. Penny's writings
-- See more: Dr. Panny's drawings
+- See more: Dr. Penny's drawings
 - See details of the project
 
 <div class="button-group">
