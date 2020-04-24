@@ -21,9 +21,9 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
 
 - See more: Dr. Penny's writings
 - See more: Dr. Penny's drawings
-- See details of the project
 
 <div class="button-group">
+    See details of the project
     <a href="#" class="button primary">Furnace/Boiler - </a>
     <a href="#" class="button">Engines - </a>
     <a href="#" class="button">Linear Generator - </a>
