@@ -14,21 +14,21 @@ To leverage 100 years of materials, metallurgical and mechatronic advances since
 
 3. To reduce moving parts and masses to a minimum, especially parts that wear or must be adjusted.
 
-D. To seek application of mechatronics (sensor, microcontroller, powered output devices) to create autonomous self-regulation (homeostasis), to reduce mechanical parts count, increase energy efficiency and create real-time response. Note that, in a self-contained system, this implies generating the electrical power for the mechatronics from the engine itself and this generation is a cost.
+4. To seek application of mechatronics (sensor, microcontroller, powered output devices) to create autonomous self-regulation (homeostasis), to reduce mechanical parts count, increase energy efficiency and create real-time response. Note that, in a self-contained system, this implies generating the electrical power for the mechatronics from the engine itself and this generation is a cost.
 
-E. To explore novel design solutions to problems such as valve control and drive trains. 
+5. To explore novel design solutions to problems such as valve control and drive trains. 
 
-F. Constraining design space - Engines are stationary and small scale - for domestic/small community electrical generation and mechanical tasks - pumping, grinding, driving machinery. Hence it has an optimal and fixed rpm range. 
+6. Constraining design space - Engines are stationary and small scale - for domestic/small community electrical generation and mechanical tasks - pumping, grinding, driving machinery. Hence it has an optimal and fixed rpm range. 
 
 ## Design approach and methods: ‘parsimonious engineering’ 
 This project aims to provide design solutions with appropriate tech, no ‘higher’ than necessary, but leveraging cheap but sophisticated parts, like microprocessors.
 
-- Dr. Penny's writings
-- Dr. Panny's drawings
-- Furnace/Boiler | Engines | Linear Generator | Mechatronics
+- See more: Dr. Penny's writings
+- See more: Dr. Panny's drawings
+- See details of the project: Furnace/Boiler | Engines | Linear Generator | Mechatronics
 
 ## About
 This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
 
-- Introduction to the basics technologies of GreenSteam  
-- Selected examples of Student works 
+- [Introduction to the basics technologies of GreenSteam](#)  
+- [Selected examples of Student works](#)
