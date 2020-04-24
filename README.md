@@ -1,5 +1,3 @@
-.import '@github/details-menu-element'
-
 # GreenSteam2020
 Sustainable steam-power for the C21st by [Dr. Simon Penny](http://simonpenny.net)
 
@@ -27,17 +25,14 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
 
 - See more: Dr. Penny's writings
 - See more: Dr. Panny's drawings
-- See details of the project: [| Furnace/Boiler |](#) [| Engines |](#) [| Linear Generator |](#) [| Mechatronics |](#)
+- See details of the project
 
-
-<details>
-  <summary>Robots</summary>
-  <details-menu role="menu">
-    <button type="button" role="menuitem">Hubot</button>
-    <button type="button" role="menuitem">Bender</button>
-    <button type="button" role="menuitem">BB-8</button>
-  </details-menu>
-</details>
+<div class="button-group">
+    <a href="#" class="button primary">Furnace/Boiler</a>
+    <a href="#" class="button">Engines</a>
+    <a href="#" class="button">Linear Generator</a>
+    <a href="#" class="button">Mechatronics</a>
+</div>
 
 ## About
 This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
