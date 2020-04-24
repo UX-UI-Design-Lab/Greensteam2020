@@ -28,9 +28,9 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
 - See details of the project
 
 <div class="button-group">
-    <a href="#" class="button primary">Furnace/Boiler</a>
-    <a href="#" class="button">Engines</a>
-    <a href="#" class="button">Linear Generator</a>
+    <a href="#" class="button primary">Furnace/Boiler - </a>
+    <a href="#" class="button">Engines - </a>
+    <a href="#" class="button">Linear Generator - </a>
     <a href="#" class="button">Mechatronics</a>
 </div>
 
