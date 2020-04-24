@@ -30,6 +30,8 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
     <a href="#" class="button">Mechatronics</a>
 </div>
 
+---
+
 ## About
 This project was begun in early 2018 by PI Prof. Simon Penny. It was supported with a CALIT2 UROP MDP grant 18/19 and was suspended summer19-winter20. 
 
