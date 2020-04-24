@@ -1,3 +1,5 @@
+.import '@github/details-menu-element'
+
 # GreenSteam2020
 Sustainable steam-power for the C21st by [Dr. Simon Penny](http://simonpenny.net)
 
@@ -28,7 +30,6 @@ This project aims to provide design solutions with appropriate tech, no ‘highe
 - See details of the project: [| Furnace/Boiler |](#) [| Engines |](#) [| Linear Generator |](#) [| Mechatronics |](#)
 
 
-import '@github/details-menu-element'
 <details>
   <summary>Robots</summary>
   <details-menu role="menu">
