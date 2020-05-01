@@ -1,5 +1,5 @@
 # GreenSteam2020
-Sustainable steam-power for the C21st by [Dr. Simon Penny](http://simonpenny.net)
+Sustainable steam-power for the C21st by [Professor Simon Penny](http://simonpenny.net)
 
 To goal of GreenSteam project is to rethink external combustion for sustainable small scale power, suited to but not specifically for, isolated locations.
 
